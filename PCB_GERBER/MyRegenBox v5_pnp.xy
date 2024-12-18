@@ -1,0 +1,66 @@
+# Pick And Place List
+# Company=
+# Author=
+# eMail=
+#
+# Project=MyRegenBox v5
+# Date=19:09:19
+# CreatedBy=Fritzing 1.0.0rc.2023-06-02.CD-4157-0-6b14cfe9
+#
+#
+# Coordinates in mils, always center of component
+# Origin 0/0=Lower left corner of PCB
+# Rotation in degree (0-360, math. pos.)
+#
+RefDes,Description,Package,X,Y,Rotation,Side,Mount
+Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
+D6,";;;;;;;;","300 mil [THT]",2599,987.795,0,Top,THT
+BAT2,";;;1.2V;;;;;","battery-aa-kit",1450,1317.8,90,Top,SMT
+TP4,";;;;;;;;","1x01_offset",3650,1466.3,0,Bottom,SMT
+TP5,";;;;;;;;","1x01_offset",4378.5,337.795,90,Bottom,SMT
+R12,"22k;;;;;0.25W;;;","THT",4550,387.795,90,Top,THT
+D10,";;;;;;;;","300 mil [THT]",4451,1287.8,0,Top,THT
+TP3,";;;;;;;;","1x01_offset",3500,1466.3,0,Bottom,SMT
+C3,";220µ;;16V;;;;;","200 mil [THT, electrolytic]",4500,837.795,180,Top,THT
+BAT4,";;;1.2V;;;;;","battery-aa-kit",350,1317.8,90,Top,SMT
+BAT1,";;;1.2V;;;;;","battery-aa-kit",2000,1317.8,90,Top,SMT
+D3,";;;;;;;;","300 mil [THT]",2599,1937.8,0,Top,THT
+D9,";;;;;;;;","300 mil [THT]",3601.96,538.906,0,Top,THT
+IC2,";;;;;;;;","DIP16 [THT]",4050,687.795,0,Top,THT
+R9,"1k;;;;;0.25W;;;","THT",3550,837.795,0,Top,THT
+R1,"1k;;;;;0.25W;;;","THT",2550,1437.8,0,Top,THT
+TP1,";;;;;;;;","1x01_offset",2300,1016.3,0,Bottom,SMT
+TP2,";;;;;;;;","1x01_offset",3350,1466.3,0,Bottom,SMT
+C4,";150nF;;35V;;;;;","200 mil [THT, multilayer]",4150,187.795,180,Top,THT
+D2,";;;;;;;;","300 mil [THT]",2599,2087.8,0,Top,THT
+R8,"1k;;;;;0.25W;;;","THT",3550,1137.8,0,Top,THT
+Jumper2,";;;;;;;;","",2825,1237.8,0,Top,MANUAL
+T2,";;;;;;;;","TO92 [THT]",3203.5,330.295,-90,Top,THT
+T3,";;;;;;;;","TO92",2931.13,987.79,-90,Top,THT
+S1,";;;;;;;;","THT",4550,2037.8,90,Top,THT
+R5,"10k;;;;;0.25W;;;","THT",2550,387.795,0,Top,THT
+LED3,";;;;0.030A;;;;","3 mm [THT]",3100.01,1215,0,Top,THT
+F1,";;;;;;;;","fuse_5mm",3756.3,1737.8,-90,Top,SMT
+BAT3,";;;1.2V;;;;;","battery-aa-kit",900,1317.8,90,Top,SMT
+D1,";;;;;;;;","300 mil [THT]",2599,2237.8,0,Top,THT
+R10,"4.7k;;;;;0.25W;;;","THT",3550,337.795,0,Top,THT
+Jumper1,";;;;;;;;","",3250,1150.3,0,Top,MANUAL
+R3,"240;;;;;0.25W;;;","THT",2550,687.795,0,Top,THT
+VM1,";;;;;;;;","",3650.03,2237.8,180,Top,MANUAL
+IC1,";;;Variable V;;;;;","TO220 [THT]",3050,1647.8,0,Top,THT
+J2,";;;;;;;;","power_jack_pth",4433.91,1682.23,-90,Top,SMT
+D8,";;;;;;;;","300 mil [THT]",3601.96,688.906,0,Top,THT
+LED1,";;;;0.030A;;;;","3 mm [THT]",2549.99,1260.59,180,Top,THT
+R6,"3.3;;;;;1W;;;","THT",2550,237.795,180,Top,THT
+R2,"10k;;;;;0.25W;;;","THT",2550,837.795,0,Top,THT
+R7,"1k;;;;;0.25W;;;","THT",3550,1287.8,0,Top,THT
+D5,";;;;;;;;","300 mil [THT]",2599,1637.8,0,Top,THT
+D7,";;;;;;;;","300 mil [THT]",3601.96,988.906,0,Top,THT
+R11,"130k;;;;;0.25W;;;","THT",4400,387.795,90,Top,THT
+R4,"240;;;;;0.25W;;;","THT",2550,537.795,0,Top,THT
+P1,";;;;;0.5W;;;","THT",3006,661.226,0,Top,THT
+D4,";;;;;;;;","300 mil [THT]",2599,1787.8,0,Top,THT
+C1,";100 nF;;35V;;;;;","200 mil",4050.4,1287.79,180,Top,SMT
+T1,";;;;;;;;","TO92 [THT]",2903.5,330.295,-90,Top,THT
+C2,";100 nF;;35V;;;;;","200 mil",4500.4,1137.8,180,Top,SMT
+LED2,";;;;0.030A;;;;","3 mm [THT]",2824.99,1260.59,180,Top,THT
